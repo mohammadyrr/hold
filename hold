@@ -1,6 +1,6 @@
 for test
 64
-sudo apt-get remove docker docker-engine docker.io containerd runc
+sudo apt-get remove docker docker-engine docker.io containerd ruc
 
 sudo apt-get update
 
