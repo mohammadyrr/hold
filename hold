@@ -1,5 +1,5 @@
 for test
-64
+64f
 sudo apt-get remove docker docker-engine docker.io containerd ruc
 
 sudo apt-get update
